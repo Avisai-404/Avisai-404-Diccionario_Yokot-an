@@ -1,1 +1,1 @@
-Codigo de la aplicacion Diccionario Ch'ol a español en lenguaje Kotlin en Android Studio
+Codigo de la pagina web de diccionario Chól a español
